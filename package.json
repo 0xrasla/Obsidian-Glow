@@ -5,6 +5,10 @@
   "version": "0.2.0",
   "publisher": "Rasla",
   "license": "MIT",
+  "scripts": {
+    "package": "vsce package --no-dependencies",
+    "publish": "vsce publish --no-dependencies"
+  },
   "engines": {
     "vscode": "^1.80.0"
   },

@@ -34,7 +34,7 @@ bun install
 # Real-time preview: Press F5 inside VS Code to launch the Extension Development Host.
 
 # Package for Marketplace
-bunx vsce package --no-dependencies
+bun run package
 ```
 
 ---
