@@ -47,7 +47,7 @@
   "bugs": {
     "url": "https://github.com/0xRasla/obsidian-glow/issues"
   },
-  "homepage": "https://github.com/0xRasla/obsidian-glow#readme",
+  "homepage": "https://0xrasla.github.io/Obsidian-Glow/",
   "devDependencies": {
     "@vscode/vsce": "^3.9.1",
     "generator-code": "^1.11.18",
