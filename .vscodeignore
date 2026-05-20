@@ -5,6 +5,7 @@
 node_modules/**
 obsidian-glow.png
 bun.lockb
+bun.lock
 task.md
 implementation_plan.md
 walkthrough.md

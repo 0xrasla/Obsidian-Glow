@@ -2,8 +2,9 @@
   "name": "obsidian-glow",
   "displayName": "Obsidian Glow",
   "description": "A minimal luxury coding aesthetic inspired by modern automotive dashboards.",
-  "version": "0.1.0",
-  "publisher": "0xRasla",
+  "version": "0.2.0",
+  "publisher": "Rasla",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -44,6 +45,7 @@
   },
   "homepage": "https://github.com/0xRasla/obsidian-glow#readme",
   "devDependencies": {
+    "@vscode/vsce": "^3.9.1",
     "generator-code": "^1.11.18",
     "yo": "^7.0.1"
   }
