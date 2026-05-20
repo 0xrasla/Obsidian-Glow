@@ -1,0 +1,10 @@
+.vscode/**
+.git/**
+.gitignore
+.vscodeignore
+node_modules/**
+obsidian-glow.png
+bun.lockb
+task.md
+implementation_plan.md
+walkthrough.md

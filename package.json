@@ -1,0 +1,50 @@
+{
+  "name": "obsidian-glow",
+  "displayName": "Obsidian Glow",
+  "description": "A minimal luxury coding aesthetic inspired by modern automotive dashboards.",
+  "version": "0.1.0",
+  "publisher": "0xRasla",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Obsidian Glow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Obsidian Glow-color-theme.json"
+      },
+      {
+        "label": "Obsidian Glow - Carbon OLED",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Obsidian Glow-OLED-color-theme.json"
+      },
+      {
+        "label": "Obsidian Glow - Ambient Light",
+        "uiTheme": "vs",
+        "path": "./themes/Obsidian Glow-Light-color-theme.json"
+      },
+      {
+        "label": "Obsidian Glow - Sunset Sand",
+        "uiTheme": "vs",
+        "path": "./themes/Obsidian Glow-Sand-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0xRasla/obsidian-glow.git"
+  },
+  "bugs": {
+    "url": "https://github.com/0xRasla/obsidian-glow/issues"
+  },
+  "homepage": "https://github.com/0xRasla/obsidian-glow#readme",
+  "devDependencies": {
+    "generator-code": "^1.11.18",
+    "yo": "^7.0.1"
+  }
+}
